@@ -5,7 +5,8 @@ Please refer to the "FAU MHK Simulation Setup Instruction.pdf" and the "Final_FA
 
 The full citation of the paper is:
 
-@inproceedings{tang2019stream,\\
+@inproceedings{tang2019stream,
+
   title={In-stream hydrokinetic turbine fault detection and fault tolerant control-a benchmark model},
   
   author={Tang, Yufei and VanZwieten, James and Dunlap, Broc and Wilson, David and Sultan, Cornel and Xiros, Nikolaos},
